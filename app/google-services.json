@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "646670585609",
+    "project_id": "tallyquiz-6f51b",
+    "storage_bucket": "tallyquiz-6f51b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646670585609:android:b2758fd6dfc5958895cdd8",
+        "android_client_info": {
+          "package_name": "com.example.tallyquizapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "646670585609-td7609an24mh540arit52bdqf7obvba3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCI9RXfXjXhldY717yeoNIuBCbAkCu4mLE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "646670585609-td7609an24mh540arit52bdqf7obvba3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

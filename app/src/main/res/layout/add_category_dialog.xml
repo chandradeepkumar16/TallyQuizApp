@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="300dp"
+    android:layout_height="200dp"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <EditText
+        android:layout_width="276dp"
+        android:layout_height="70dp"
+        android:id="@+id/category_name"
+        android:ems="10"
+        android:padding="8dp"
+        android:layout_margin="16dp"
+        android:hint="Category name"
+        android:elevation="1dp"
+        android:inputType="textPersonName"
+        ></EditText>
+
+
+    <Button
+        android:id="@+id/addbtn"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:text="add"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:paddingBottom="20dp"
+        android:backgroundTint="@color/black"
+        ></Button>
+
+
+
+</LinearLayout>
